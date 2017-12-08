@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "693179771175",
+    "firebase_url": "https://bookstore-b5941.firebaseio.com",
+    "project_id": "bookstore-b5941",
+    "storage_bucket": "bookstore-b5941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693179771175:android:933b3ea485bce365",
+        "android_client_info": {
+          "package_name": "com.eslamelhoseiny.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693179771175-culvli1vfjpqjpuu7286pr76eg8ln428.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eslamelhoseiny.bookstore",
+            "certificate_hash": "e560943057dce8d7dc4ab4490aaec20dcb6aa95c"
+          }
+        },
+        {
+          "client_id": "693179771175-pemc6v3o03hmtv2racrvc9kb31018e04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eslamelhoseiny.bookstore",
+            "certificate_hash": "b2527348d03b97cf16f3f78fe6698da2b74e4ac5"
+          }
+        },
+        {
+          "client_id": "693179771175-0kc4nsnp04hcas0fas6dgpen3r5nvi5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eslamelhoseiny.bookstore",
+            "certificate_hash": "64d4d74092a40fa0fdb05676e241c0f8aab93874"
+          }
+        },
+        {
+          "client_id": "693179771175-8n654rp3et9tiv3c4nlk58lq7bsbblo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfwxYIkeMz5Cv__Wcv1iQUDV4KZWuFyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693179771175-8n654rp3et9tiv3c4nlk58lq7bsbblo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
